@@ -1,5 +1,5 @@
 # Cyberchef Lab (cryptography)
---
+
 A hands-on cryptography lab demonstrating hashing algorithms using CyberChef. This project explores MD5 and SHA-256 hashing, the avalanche effect, and character sensitivity through practical experiments.
 ## **What is CyberChef?**
 
@@ -17,7 +17,7 @@ A **web-based "digital Swiss Army knife"** for encoding, decoding, encryption,
 - **Convert** between formats
 - **Extract** hidden information
 
-go to the cyberchef website , Let’s use cyberchef to explore and experiment some of the cryptographic algorithm.
+Visit the CyberChef website and experiment with different cryptographic algorithms.
 
   
 
@@ -37,7 +37,7 @@ in input let’s try adding something basic like “password123” and check out
 
 ![image.png](images/image%202.png)
 
-here you can see we i used 11 length long input which encrypted into 32 length long hash string 
+The input contains 11 characters, while the MD5 algorithm always produces a fixed 32-character hexadecimal hash.
 
 ### lets tweak it a little and change some characters to see different hash output:
 
@@ -101,7 +101,7 @@ Look  changing p → P & 3 → 4 makes different in hash output.
 
 ---
 
----
+
 
 ```
 ## **Cryptography Lab - CyberChef**
