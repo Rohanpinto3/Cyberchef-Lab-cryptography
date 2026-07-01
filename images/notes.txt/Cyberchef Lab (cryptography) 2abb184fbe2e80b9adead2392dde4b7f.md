@@ -21,7 +21,7 @@ go to the cyberchef website , Let’s use cyberchef to explore and experiment so
 
   
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 # **Let's explore MD5 hashing in CyberChef!** 🔍
 
@@ -31,17 +31,17 @@ go to the cyberchef website , Let’s use cyberchef to explore and experiment so
 
  
 
-![image.png](image%201.png)
+![image.png](images/image%201.png)
 
 in input let’s try adding something basic like “password123” and check out the hash output 
 
-![image.png](image%202.png)
+![image.png](images/image%202.png)
 
 here you can see we i used 11 length long input which encrypted into 32 length long hash string 
 
 ### lets tweak it a little and change some characters to see different hash output:
 
-![image.png](image%203.png)
+![image.png](images/image%203.png)
 
 Look  changing p → P & 3 → 4 makes different in hash output.
 
@@ -77,9 +77,9 @@ Look  changing p → P & 3 → 4 makes different in hash output.
 
 ### lets remove md5 from the recipe and drag & drop sha2 & size 256
 
-![image.png](image%204.png)
+![image.png](images/image%204.png)
 
-![image.png](image%205.png)
+![image.png](images/image%205.png)
 
 ### **Input 1: `testing_hash`**
 
