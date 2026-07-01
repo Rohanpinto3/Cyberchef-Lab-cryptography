@@ -1,8 +1,8 @@
 # Cyberchef Lab (cryptography)
-
----
-
+--
+A hands-on cryptography lab demonstrating hashing algorithms using CyberChef. This project explores MD5 and SHA-256 hashing, the avalanche effect, and character sensitivity through practical experiments.
 ## **What is CyberChef?**
+
 
 A **web-based "digital Swiss Army knife"** for encoding, decoding, encryption, and data analysis.
 
