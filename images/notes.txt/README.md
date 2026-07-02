@@ -21,7 +21,7 @@ Visit the CyberChef website and experiment with different cryptographic algorith
 
   
 
-![image.png](image.png)
+![image.png](notes.txt/image.png)
 
 # **Let's explore MD5 hashing in CyberChef!** 🔍
 
