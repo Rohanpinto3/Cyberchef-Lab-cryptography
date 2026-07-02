@@ -4,7 +4,7 @@ This repository contains my hands-on notes, walkthroughs, and screenshots while 
 
 ## 📖 Notes
 
-For the complete lab notes and walkthrough, see **[CyberChef Lab (Cryptography)](cyberchef-cryptography-lab.md)**.
+For the complete lab notes and walkthrough, see **[CyberChef Lab (Cryptography)](cyberchef-cryptography-lab.md)**
 
 ## Contents
 
