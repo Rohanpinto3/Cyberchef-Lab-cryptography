@@ -1,7 +1,7 @@
 # CyberChef Lab (Cryptography)
 
 <p align="center">
-  <img src="https://files.catbox.moe/4yxn0x.webp" alt="Wireshark Network Analysis Lab Banner" width="100%">
+  <img src="https://files.catbox.moe/42cjb3.jpg" alt="Wireshark Network Analysis Lab Banner" width="100%">
 </p>
 
 
