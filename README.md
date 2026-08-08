@@ -2,6 +2,12 @@
 
 
 
+<p align="center">
+  <img src="https://files.catbox.moe/4yxn0x.webp" alt="Wireshark Network Analysis Lab Banner" width="100%">
+</p>
+
+
+
 
 This repository contains my hands-on notes, walkthroughs, and screenshots while exploring cryptographic concepts using CyberChef. It covers common hashing, encoding, and encryption techniques through practical examples.
 
